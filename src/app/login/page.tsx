@@ -80,7 +80,7 @@ export default function LoginPage() {
 
             {/* Link ke Registrasi (Tanpa Refresh) */}
             <p className="mt-4 text-sm text-center">
-              Belum punya akun?{" "}
+              Belum punya akunn?{" "}
               <Link href="/register" className="text-blue-600 hover:underline">
                 Daftar di sini
               </Link>
